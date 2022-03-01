@@ -1,5 +1,4 @@
-# group1_test_repo
-This repository is for testing and practicing git.
+# group1_test_repo This repository is for testing and practicing git.
 
 ## Tasks
 There are two branches in this repository main and test. 
@@ -11,5 +10,5 @@ Add your name onto the bottom of this file.
 
 2. Create a folder with your name   
 
-3. This task is written in the latest git commit.
+3. This task is written in the latest git commit.  
 Read the commit and do this task
