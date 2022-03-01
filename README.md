@@ -2,7 +2,7 @@
 This repository is for testing and practicing git.
 
 ## Tasks
-There are two branches in this repository master and test. 
+There are two branches in this repository main and test. 
 Every changes should be done in test branch. 
 
 There are a total of three tasks.
