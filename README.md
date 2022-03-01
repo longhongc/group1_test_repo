@@ -1,4 +1,5 @@
-# group1_test_repo This repository is for testing and practicing git.
+# group1_test_repo 
+This repository is for testing and practicing git.
 
 ## Tasks
 There are two branches in this repository main and test. 
